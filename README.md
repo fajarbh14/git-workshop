@@ -1,5 +1,5 @@
 # Hoceen
-Hoceen adalah (Honesty Canteen) sebuah aplikasi kantin kejujuran 
+FAJAR BAIK adalah (Honesty Canteen) sebuah aplikasi kantin kejujuran 
 dibuat untuk seleksi Compfest Software Engineering Academy 14 
 
 
@@ -9,6 +9,7 @@ dibuat untuk seleksi Compfest Software Engineering Academy 14
    `git clone https://github.com/fajarbh/hoceen.git`
 2. Lakukan instalasi package dengan `npm install` atau `yarn`
 3. Jalankan Aplikasi dengan `npm run dev`
+4. ubah instruksi
 
 ## Teknologi
 - **Main Framework** : ExpressJS
